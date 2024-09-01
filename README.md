@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Your Name]  
+## Hi there! 👋 I'm VAISHNAVI
 
 I'm an aspiring **Data Scientist** passionate about turning data into actionable insights! I love working on challenging data problems, building predictive models, and leveraging machine learning to create meaningful impacts. 
 
